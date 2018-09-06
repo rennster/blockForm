@@ -1,0 +1,117 @@
+html, body {
+	margin: 0 0 0 0;
+	font: 16px Trebuchet MS;
+	color: black;
+
+}
+table {
+    border-collapse: collapse;
+	border:1px solid black;
+}
+
+
+
+.naslov{
+	color: #A2CAEE;
+	line-height:25px;
+    font-size: 26px;
+}
+
+
+#main-container {
+	width: 100%;
+	height:100%;
+	align:center;
+
+
+}
+
+.mid {
+		display: inline-block;
+	
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right; 
+	font-size: 0.6em;
+	
+}
+
+#header {
+	width: 100%;
+	height: 25%;
+
+	background-image: url('header2.jpg');
+
+
+}
+
+	#header .logo {
+		padding-top: 20px;
+		padding-left: 30px;
+		max-width: 100%;
+		height: auto;
+	}	
+	
+	#header .banner {
+		margin: 10px auto; 
+		padding-top: 20px;
+		padding-left: 10px;
+		height:20%;
+		width:20%;
+		
+		
+	}
+
+#middle_box {
+	padding-bottom:0px;
+	background-color:#3B7ABF;
+	
+}
+
+.line {
+	width:100%;
+	height:100%;
+	background-color:#3B7ABF;
+}
+
+.clouds {
+	width:100%;
+	height:100%;
+
+	margin:0 0 0 0;
+	padding-top:0px;
+	margin-bottom:-10px;
+	
+}
+
+
+.button {
+	border: 2px solid #4CAF50;
+	font-size: 15px;
+	border-radius: 4px;
+	font: "Trebuchet MS";
+	background-color: #4CAF50;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	
+}
+
+.button:hover {
+	border-radius: 4px;
+	font-size: 15px;
+	font: "Trebuchet MS";
+    background-color: #4CAF50; /* Green */
+    background-color: grey;
+}
+	
+
+
+
+
+
+	
